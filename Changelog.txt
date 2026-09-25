@@ -1,3 +1,7 @@
+## v10.0.21 - 2026-09-25
+- Corrected spelling: "Pump Efficiency" on the Cost Calculation sheet, the temperature unit names "Celsius" and "Fahrenheit", and the message shown when the K1/K2 calculation fails ("...then please contact support").
+- Updated user guide for this release.
+
 ## v10.0.20 - 2026-09-24
 - You are now told when a newer version exists: when you open the tool, a message offers to install it (Yes downloads and installs it, No carries on). You are asked only once for each new version; Check for Updates on the About screen is always there.
 - Updated user guide for this release.
